@@ -1,0 +1,8 @@
+# JUCE
+JuceLibraryCode/
+
+# Build
+build/
+
+# Resources
+Resources/
